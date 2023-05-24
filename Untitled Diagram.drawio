@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T21:17:54.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="731xHfyzkStywN7NxtU2" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T21:18:58.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jQAjXx7mZKWpaxcGIchf" version="21.2.3" type="github">
   <diagram name="Page-1" id="td61SjowARS5I_x00fJ6">
     <mxGraphModel dx="954" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="bDiKeC2IinskdCp3N87W-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/clinical-3/96/medicine-128.png" vertex="1" parent="1">
           <mxGeometry x="547.75" y="540" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bDiKeC2IinskdCp3N87W-29" value="&lt;p style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 8pt; font-family: Roboto, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;continuous glucose monitor sensor&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-26916446-7fff-1148-d598-17ed101bd6e0&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
