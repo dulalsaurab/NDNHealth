@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T04:05:32.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d0cwmuMnjJMQlX38l_3W" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-12T04:11:52.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hZ_oZD3JgsXO8M2xmJC8" version="21.3.7" type="github" pages="2">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1372" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -310,8 +310,8 @@
             <mxPoint x="330.5" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukz8i4zWE4Mde8tVxVIn-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produce (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dataName,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;accessPolicy,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;content, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;signatureInfo)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="237.99741935483866" y="250" as="geometry" />
+        <mxCell id="ukz8i4zWE4Mde8tVxVIn-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produce (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dataName,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;policy or attributes,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;content, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;signatureInfo)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="251.99741935483866" y="250" as="geometry" />
         </mxCell>
         <mxCell id="ukz8i4zWE4Mde8tVxVIn-10" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=blockThin;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -319,13 +319,13 @@
             <mxPoint x="948.5" y="471.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukz8i4zWE4Mde8tVxVIn-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;publish (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dataName,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; consumptionCb,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; errorCallback&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="861.9974193548387" y="437.97" as="geometry" />
+        <mxCell id="ukz8i4zWE4Mde8tVxVIn-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;consume (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dataName,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; consumptionCb,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; errorCallback&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="866.9974193548387" y="437.97" as="geometry" />
         </mxCell>
         <mxCell id="ukz8i4zWE4Mde8tVxVIn-12" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=blockThin;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="783.25" y="781" as="sourcePoint" />
-            <mxPoint x="942.75" y="781" as="targetPoint" />
+            <mxPoint x="942.75" y="781" as="sourcePoint" />
+            <mxPoint x="783.25" y="781" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ukz8i4zWE4Mde8tVxVIn-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;{content or error message}&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
@@ -339,17 +339,17 @@
             <mxPoint x="949.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukz8i4zWE4Mde8tVxVIn-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;init consumer&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="865.9974193548387" y="145" as="geometry" />
-        </mxCell>
         <mxCell id="ukz8i4zWE4Mde8tVxVIn-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="159.99999999999997" as="sourcePoint" />
             <mxPoint x="329.5" y="159.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ukz8i4zWE4Mde8tVxVIn-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;init producer&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240.99741935483866" y="146.32999999999998" as="geometry" />
+        <mxCell id="ukz8i4zWE4Mde8tVxVIn-17" value="&lt;div style=&quot;&quot;&gt;init producer&lt;/div&gt;&lt;div style=&quot;&quot;&gt;{keyChain,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;validator,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;producer_cert,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;aa_cert}&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="241.99741935483866" y="129.32999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="ukz8i4zWE4Mde8tVxVIn-18" value="&lt;div style=&quot;&quot;&gt;init consumer&lt;/div&gt;&lt;div style=&quot;&quot;&gt;{keyChain,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;validator,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;consumer_cert,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;aa_cert}&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="869.9974193548387" y="129.32999999999998" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
